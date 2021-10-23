@@ -1,6 +1,9 @@
+package Fares;
+
 public class Fares {
     public static void main(String[] args) {
        System.out.println("Fares");
+       System.out.println("ana 2a3taref en karim fager neek");
     }
     
 }
